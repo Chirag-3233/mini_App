@@ -1,3 +1,3 @@
 export default API = {
-    get: ''
+    getList: 'https://www.breakingbadapi.com/api/characters'
 }
